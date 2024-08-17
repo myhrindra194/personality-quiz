@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="image">Image</string>
+    <string name="quiz_app">Personality Quiz</string>
+    <string name="get_to_know_yourself_through_our_application">Get to know yourself through our application</string>
+    <string name="login">Login</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_question">QuestionActivity</string>
+    <string name="person">person</string>
+    <string name="welcome_to">Welcome to</string>
+    <string name="button">Button</string>
+    <string name="wave">wave</string>
+    <string name="title_activity_showing_profil">ShowingProfilActivity</string>
+    <string name="play_quiz">Play Quiz</string>
+    <string name="submit">Submit</string>
+    <string name="email_invalid">Email invalid</string>
+    <string name="email">Email</string>
+    <string name="number_invalid">Number Invalid</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="username_empty">Username empty</string>
+    <string name="username">UserName</string>
+    <string name="revenir_l_accueil">Revenir en accueil</string>
+    <string name="vos_meilleures_profils">Votre profil</string>
+    <string name="questions_out_of_64">Questions %1$s/64</string>
+    <string name="totalement_en_accord">Totalement en accord</string>
+    <string name="en_accord">En accord</string>
+    <string name="neutre">Neutre</string>
+    <string name="en_d_saccord">En désaccord</string>
+    <string name="totalement_en_d_saccord">Totalement en désaccord</string>
+    <string name="pts">%1$s pts</string>
+    <string name="dernier_profil">Dernier profil</string>
+    <string name="top_3">Top 3</string>
+</resources>
