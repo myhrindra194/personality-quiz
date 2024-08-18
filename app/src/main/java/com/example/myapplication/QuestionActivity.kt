@@ -262,7 +262,8 @@ fun QuizView(backToHome: () -> Unit, scoreList: MutableList<Int>, user: User){
                         Text(text = stringResource(R.string.revenir_l_accueil))
                     }
                 },
-                modifier = Modifier.padding(vertical = 20.dp, horizontal = 20.dp).background(Color.White)
+                containerColor = Color.White,
+                modifier = Modifier.padding(vertical = 20.dp, horizontal = 20.dp)
             )
         }
     }
