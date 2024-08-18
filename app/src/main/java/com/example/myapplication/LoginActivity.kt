@@ -48,15 +48,14 @@ class LoginActivity : ComponentActivity() {
                         putExtra("number", user.number)
                         putExtra("email", user.email)
                     }
-                    startActivity(intent)
-                }
+                    startActivity(intent)                }
             }
         }
     }
 }
 
 fun checkNameValidity(name: String): Boolean{
-    return name.isNotEmpty()
+    return name.trim().isNotEmpty()
 }
 
 fun checkNumberValidity(number: String): Boolean{
